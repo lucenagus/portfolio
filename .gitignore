@@ -1,0 +1,16 @@
+# Dependencies & tooling
+node_modules/
+
+# Original, unoptimized media (kept locally only — too big for the repo)
+assets-src/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Local agent / plugin state
+.claude/
+.impeccable/
