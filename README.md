@@ -77,3 +77,9 @@ npm run serve        # preview em http://localhost:8080
 O GitHub Pages serve a branch `main` a partir da raiz (`Settings → Pages → Deploy from a branch → main / root`).
 Como é um site de projeto, a URL fica em `https://lucenagus.github.io/portfolio/` — por isso todos os
 links e caminhos de assets são **relativos**.
+
+## Licença
+
+Código (HTML/CSS/JS/scripts) sob **MIT**; conteúdo (imagens, vídeos, textos, trabalhos) com
+**todos os direitos reservados**. Marcas de clientes e ferramentas pertencem aos seus donos.
+Detalhes em [LICENSE](LICENSE).
